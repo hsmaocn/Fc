@@ -1,7 +1,7 @@
 # Fraction Converter(缩写Fc)
 分数转换器(Fraction Converter)<br>
 项目名称：分数转换器<br>
-版权归属:返回工作室<br>
+版权归属:像素幻化（长春）网络科技有限公司<br>
 邮箱:jbzx#return2017.top(用@替换#)<br>
 如有问题欢迎您联系!<br>
 您的设备需要装有Python3.6或更高版本<br>
